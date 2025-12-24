@@ -1,0 +1,13 @@
+# TeamViewer
+teamviewer.com
+*.teamviewer.com
+www.teamviewer.com
+download.teamviewer.com
+installer.teamviewer.com
+
+# AnyDesk
+anydesk.com
+*.anydesk.com
+www.anydesk.com
+gate.anydesk.com
+keys.anydesk.com
