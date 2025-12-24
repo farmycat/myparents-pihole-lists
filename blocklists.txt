@@ -1,13 +1,13 @@
 # TeamViewer
-teamviewer.com
-*.teamviewer.com
-www.teamviewer.com
-download.teamviewer.com
-installer.teamviewer.com
+0.0.0.0 teamviewer.com
+0.0.0.0 *.teamviewer.com
+0.0.0.0 www.teamviewer.com
+0.0.0.0 download.teamviewer.com
+0.0.0.0 installer.teamviewer.com
 
 # AnyDesk
-anydesk.com
-*.anydesk.com
-www.anydesk.com
-gate.anydesk.com
-keys.anydesk.com
+0.0.0.0 anydesk.com
+0.0.0.0 *.anydesk.com
+0.0.0.0 www.anydesk.com
+0.0.0.0 gate.anydesk.com
+0.0.0.0 keys.anydesk.com
